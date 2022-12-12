@@ -1,0 +1,120 @@
+Collecting pyqt5-tools
+  Using cached pyqt5_tools-5.15.4.3.2-py3-none-any.whl (29 kB)
+  Using cached pyqt5_tools-5.15.4.3.1-py3-none-any.whl (28 kB)
+Collecting pyqt5==5.15.4
+  Using cached PyQt5-5.15.4-cp36.cp37.cp38.cp39-abi3-manylinux2014_x86_64.whl (8.3 MB)
+Collecting click
+  Using cached click-8.1.3-py3-none-any.whl (96 kB)
+Collecting pyqt5-tools
+  Using cached pyqt5_tools-5.15.4.3.0.3-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.15.3.3.2-py3-none-any.whl (29 kB)
+  Using cached pyqt5_tools-5.15.3.3.1-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.15.3.3.0.3-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.15.2.3.2-py3-none-any.whl (29 kB)
+Collecting pyqt5==5.15.2
+  Using cached PyQt5-5.15.2-5.15.2-cp35.cp36.cp37.cp38.cp39-abi3-manylinux2014_x86_64.whl (68.3 MB)
+Collecting python-dotenv
+  Using cached python_dotenv-0.21.0-py3-none-any.whl (18 kB)
+Collecting pyqt5-tools
+  Using cached pyqt5_tools-5.15.2.3.1-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.15.2.3.0.3-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.15.2.3.0.2-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.15.2.3.0.1-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.15.2.3-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.15.1.3.2-py3-none-any.whl (29 kB)
+  Using cached pyqt5_tools-5.15.1.3.1-py3-none-any.whl (28 kB)
+Collecting pyqt5==5.15.1
+  Using cached PyQt5-5.15.1-5.15.1-cp35.cp36.cp37.cp38.cp39-abi3-manylinux2014_x86_64.whl (71.6 MB)
+Collecting pyqt5-tools
+  Using cached pyqt5_tools-5.15.1.3.0.3-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.15.1.3.0.2-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.15.1.3.0.1-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.15.1.3-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.15.1.2-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.15.0.3.2-py3-none-any.whl (29 kB)
+Collecting pyqt5==5.15.0
+  Using cached PyQt5-5.15.0-5.15.0-cp35.cp36.cp37.cp38-abi3-manylinux2014_x86_64.whl (76.6 MB)
+Collecting pyqt5-tools
+  Using cached pyqt5_tools-5.15.0.3.1-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.15.0.3.0.3-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.15.0.3.0.2-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.15.0.3.0.1-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.15.0.3-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.15.0.2-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.14.2.3.2-py3-none-any.whl (29 kB)
+  Using cached pyqt5_tools-5.14.2.3.1-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.14.2.3.0.3-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.14.2.3.0.2-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.14.2.3.0.1-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.14.2.3-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.14.2.2-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.14.1.3.2-py3-none-any.whl (29 kB)
+  Using cached pyqt5_tools-5.14.1.3.1-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.14.1.3.0.3-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.14.1.3.0.2-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.14.1.3.0.1-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.14.1.3-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.14.1.2-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.14.0.3.2-py3-none-any.whl (29 kB)
+  Using cached pyqt5_tools-5.14.0.3.1-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.14.0.3.0.3-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.14.0.3.0.2-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.14.0.3.0.1-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.14.0.3-py3-none-any.whl (28 kB)
+  Using cached pyqt5_tools-5.14.0.2-py3-none-any.whl (28 kB)
+Collecting pyqt5==5.14.0
+  Using cached PyQt5-5.14.0-5.14.0-cp35.cp36.cp37.cp38-abi3-manylinux1_x86_64.whl (63.5 MB)
+
+The conflict is caused by:
+    pyqt5-tools 5.15.4.3.2 depends on pyqt5-plugins<5.15.4.3 and >=5.15.4.2.2
+    pyqt5-tools 5.15.4.3.1 depends on pyqt5-plugins<5.15.4.3 and >=5.15.4.2
+    pyqt5-tools 5.15.4.3.0.3 depends on pyqt5-plugins<5.15.4.3 and >=5.15.4.2
+    pyqt5-tools 5.15.3.3.2 depends on pyqt5-plugins<5.15.3.3 and >=5.15.3.2.2
+    pyqt5-tools 5.15.3.3.1 depends on pyqt5-plugins<5.15.3.3 and >=5.15.3.2
+    pyqt5-tools 5.15.3.3.0.3 depends on pyqt5-plugins<5.15.3.3 and >=5.15.3.2
+    pyqt5-tools 5.15.2.3.2 depends on pyqt5-plugins<5.15.2.3 and >=5.15.2.2.2
+    pyqt5-tools 5.15.2.3.1 depends on pyqt5-plugins<5.15.2.3 and >=5.15.2.2
+    pyqt5-tools 5.15.2.3.0.3 depends on pyqt5-plugins<5.15.2.3 and >=5.15.2.2
+    pyqt5-tools 5.15.2.3.0.2 depends on pyqt5-plugins<5.15.2.3 and >=5.15.2.2
+    pyqt5-tools 5.15.2.3.0.1 depends on pyqt5-plugins<5.15.2.3 and >=5.15.2.2
+    pyqt5-tools 5.15.2.3 depends on pyqt5-plugins<5.15.2.3 and >=5.15.2.2
+    pyqt5-tools 5.15.1.3.2 depends on pyqt5-plugins<5.15.1.3 and >=5.15.1.2.2
+    pyqt5-tools 5.15.1.3.1 depends on pyqt5-plugins<5.15.1.3 and >=5.15.1.2
+    pyqt5-tools 5.15.1.3.0.3 depends on pyqt5-plugins<5.15.1.3 and >=5.15.1.2
+    pyqt5-tools 5.15.1.3.0.2 depends on pyqt5-plugins<5.15.1.3 and >=5.15.1.2
+    pyqt5-tools 5.15.1.3.0.1 depends on pyqt5-plugins<5.15.1.3 and >=5.15.1.2
+    pyqt5-tools 5.15.1.3 depends on pyqt5-plugins<5.15.1.3 and >=5.15.1.2
+    pyqt5-tools 5.15.1.2 depends on pyqt5-plugins~=5.15.1.1.0.dev0
+    pyqt5-tools 5.15.0.3.2 depends on pyqt5-plugins<5.15.0.3 and >=5.15.0.2.2
+    pyqt5-tools 5.15.0.3.1 depends on pyqt5-plugins<5.15.0.3 and >=5.15.0.2
+    pyqt5-tools 5.15.0.3.0.3 depends on pyqt5-plugins<5.15.0.3 and >=5.15.0.2
+    pyqt5-tools 5.15.0.3.0.2 depends on pyqt5-plugins<5.15.0.3 and >=5.15.0.2
+    pyqt5-tools 5.15.0.3.0.1 depends on pyqt5-plugins<5.15.0.3 and >=5.15.0.2
+    pyqt5-tools 5.15.0.3 depends on pyqt5-plugins<5.15.0.3 and >=5.15.0.2
+    pyqt5-tools 5.15.0.2 depends on pyqt5-plugins~=5.15.0.1.0.dev0
+    pyqt5-tools 5.14.2.3.2 depends on pyqt5-plugins<5.14.2.3 and >=5.14.2.2.2
+    pyqt5-tools 5.14.2.3.1 depends on pyqt5-plugins<5.14.2.3 and >=5.14.2.2
+    pyqt5-tools 5.14.2.3.0.3 depends on pyqt5-plugins<5.14.2.3 and >=5.14.2.2
+    pyqt5-tools 5.14.2.3.0.2 depends on pyqt5-plugins<5.14.2.3 and >=5.14.2.2
+    pyqt5-tools 5.14.2.3.0.1 depends on pyqt5-plugins<5.14.2.3 and >=5.14.2.2
+    pyqt5-tools 5.14.2.3 depends on pyqt5-plugins<5.14.2.3 and >=5.14.2.2
+    pyqt5-tools 5.14.2.2 depends on pyqt5-plugins~=5.14.2.1.0.dev0
+    pyqt5-tools 5.14.1.3.2 depends on pyqt5-plugins<5.14.1.3 and >=5.14.1.2.2
+    pyqt5-tools 5.14.1.3.1 depends on pyqt5-plugins<5.14.1.3 and >=5.14.1.2
+    pyqt5-tools 5.14.1.3.0.3 depends on pyqt5-plugins<5.14.1.3 and >=5.14.1.2
+    pyqt5-tools 5.14.1.3.0.2 depends on pyqt5-plugins<5.14.1.3 and >=5.14.1.2
+    pyqt5-tools 5.14.1.3.0.1 depends on pyqt5-plugins<5.14.1.3 and >=5.14.1.2
+    pyqt5-tools 5.14.1.3 depends on pyqt5-plugins<5.14.1.3 and >=5.14.1.2
+    pyqt5-tools 5.14.1.2 depends on pyqt5-plugins~=5.14.1.1.0.dev0
+    pyqt5-tools 5.14.0.3.2 depends on pyqt5-plugins<5.14.0.3 and >=5.14.0.2.2
+    pyqt5-tools 5.14.0.3.1 depends on pyqt5-plugins<5.14.0.3 and >=5.14.0.2
+    pyqt5-tools 5.14.0.3.0.3 depends on pyqt5-plugins<5.14.0.3 and >=5.14.0.2
+    pyqt5-tools 5.14.0.3.0.2 depends on pyqt5-plugins<5.14.0.3 and >=5.14.0.2
+    pyqt5-tools 5.14.0.3.0.1 depends on pyqt5-plugins<5.14.0.3 and >=5.14.0.2
+    pyqt5-tools 5.14.0.3 depends on pyqt5-plugins<5.14.0.3 and >=5.14.0.2
+    pyqt5-tools 5.14.0.2 depends on pyqt5-plugins~=5.14.0.1.0.dev0
+
+To fix this you could try to:
+1. loosen the range of package versions you've specified
+2. remove package versions to allow pip attempt to solve the dependency conflict
+
