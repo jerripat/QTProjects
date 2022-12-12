@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 9.0.0, 2022-12-11T21:01:16. -->
+<!-- Written by QtCreator 9.0.0, 2022-12-12T13:46:30. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -87,8 +87,8 @@
   <variable>ProjectExplorer.Project.Target.0</variable>
   <valuemap type="QVariantMap">
    <value type="QString" key="DeviceType">BareMetalOsType</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">avr-baremetal-generic-elf-16bit</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">avr-baremetal-generic-elf-16bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Replacement for &quot;avr-baremetal-generic-elf-16bit&quot;</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Replacement for &quot;avr-baremetal-generic-elf-16bit&quot;</value>
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{69483269-47fa-47d5-9919-5ee3d208444b}</value>
    <value type="qlonglong" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
    <value type="qlonglong" key="ProjectExplorer.Target.ActiveDeployConfiguration">-1</value>

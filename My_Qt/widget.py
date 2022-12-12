@@ -21,6 +21,8 @@ class Widget(QWidget):
         loader.load(ui_file, self)
         ui_file.close()
 
+    def press_it(self):
+        self.label_1.setText("Boom, Boom")
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
